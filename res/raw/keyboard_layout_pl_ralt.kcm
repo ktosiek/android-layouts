@@ -1,0 +1,77 @@
+#
+# Polish layout (using ralt in place of alt)
+#
+
+type OVERLAY
+
+key A {
+    label:     'A'
+    base:      'a'
+    shift,capslock: 'A'
+    ralt:       '\u0105'
+    shift+ralt,capslock+ralt: '\u0104'
+}
+
+key C {
+    label:     'C'
+    base:      'c'
+    shift,capslock: 'C'
+    ralt:       '\u0107'
+    shift+ralt,capslock+ralt: '\u0106'
+}
+
+key E {
+    label:     'E'
+    base:      'e'
+    shift,capslock: 'E'
+    ralt:       '\u0119'
+    shift+ralt,capslock+ralt: '\u0118'
+}
+
+key L {
+    label:     'L'
+    base:      'l'
+    shift,capslock: 'L'
+    ralt:       '\u0142'
+    shift+ralt,capslock+ralt: '\u0141'
+}
+
+key N {
+    label:     'N'
+    base:      'n'
+    shift,capslock: 'N'
+    ralt:       '\u0144'
+    shift+ralt,capslock+ralt: '\u0143'
+}
+
+key O {
+    label:     'O'
+    base:      'o'
+    shift,capslock: 'O'
+    ralt:       '\u00f3'
+    shift+ralt,capslock+ralt: '\u00d3'
+}
+
+key S {
+    label:     'S'
+    base:      's'
+    shift,capslock: 'S'
+    ralt:       '\u015b'
+    shift+ralt,capslock+ralt: '\u015a'
+}
+
+key X {
+    label:     'X'
+    base:      'x'
+    shift,capslock: 'X'
+    ralt:       '\u017a'
+    shift+ralt,capslock+ralt: '\u0179'
+}
+
+key Z {
+    label:     'Z'
+    base:      'a'
+    shift,capslock: 'Z'
+    ralt:       '\u017c'
+    shift+ralt,capslock+ralt: '\u017b'
+}

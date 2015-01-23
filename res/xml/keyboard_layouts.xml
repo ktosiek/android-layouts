@@ -3,4 +3,7 @@
     <keyboard-layout android:name="keyboard_layout_pl"
             android:label="@string/keyboard_layout_pl_label"
             android:keyboardLayout="@raw/keyboard_layout_pl" />
+    <keyboard-layout android:name="keyboard_layout_pl_ralt"
+            android:label="@string/keyboard_layout_pl_ralt_label"
+            android:keyboardLayout="@raw/keyboard_layout_pl_ralt" />
 </keyboard-layouts>

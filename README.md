@@ -5,6 +5,7 @@ This package adds some keyboard layouts for use with HW keyboards.
 
 Layouts available so far:
 * Polish - basic polish layout (with capslock support)
+* Polist (ralt) - same as Polish, but only uses right alt
 
 
 How to use
