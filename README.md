@@ -3,6 +3,8 @@ Keyboard Layouts for Android
 
 This package adds some keyboard layouts for use with HW keyboards.
 
+Layouts available so far:
+* Polish - basic polish layout (with capslock support)
 
 
 How to use
