@@ -7,71 +7,71 @@ type OVERLAY
 key A {
     label:     'A'
     base:      'a'
-    shift:     'A'
+    shift,capslock: 'A'
     alt:       '\u0105'
-    shift+alt: '\u0104'
+    shift+alt,capslock+alt: '\u0104'
 }
 
 key C {
     label:     'C'
     base:      'c'
-    shift:     'C'
+    shift,capslock: 'C'
     alt:       '\u0107'
-    shift+alt: '\u0106'
+    shift+alt,capslock+alt: '\u0106'
 }
 
 key E {
     label:     'E'
     base:      'e'
-    shift:     'E'
+    shift,capslock: 'E'
     alt:       '\u0119'
-    shift+alt: '\u0118'
+    shift+alt,capslock+alt: '\u0118'
 }
 
 key L {
     label:     'L'
     base:      'l'
-    shift:     'L'
+    shift,capslock: 'L'
     alt:       '\u0142'
-    shift+alt: '\u0141'
+    shift+alt,capslock+alt: '\u0141'
 }
 
 key N {
     label:     'N'
     base:      'n'
-    shift:     'N'
+    shift,capslock: 'N'
     alt:       '\u0144'
-    shift+alt: '\u0143'
+    shift+alt,capslock+alt: '\u0143'
 }
 
 key O {
     label:     'O'
     base:      'o'
-    shift:     'O'
+    shift,capslock: 'O'
     alt:       '\u00f3'
-    shift+alt: '\u00d3'
+    shift+alt,capslock+alt: '\u00d3'
 }
 
 key S {
     label:     'S'
     base:      's'
-    shift:     'S'
+    shift,capslock: 'S'
     alt:       '\u015b'
-    shift+alt: '\u015a'
+    shift+alt,capslock+alt: '\u015a'
 }
 
 key X {
     label:     'X'
     base:      'x'
-    shift:     'X'
+    shift,capslock: 'X'
     alt:       '\u017a'
-    shift+alt: '\u0179'
+    shift+alt,capslock+alt: '\u0179'
 }
 
 key Z {
     label:     'Z'
     base:      'a'
-    shift:     'Z'
+    shift,capslock: 'Z'
     alt:       '\u017c'
-    shift+alt: '\u017b'
+    shift+alt,capslock+alt: '\u017b'
 }
