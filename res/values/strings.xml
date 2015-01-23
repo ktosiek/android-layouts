@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Name of the application. [CHAR LIMIT=35] -->
+    <string name="app_label">Ktosiek\'s keyboard layouts</string>
+
+    <!-- Keyboard layouts label, used to describe the set of all built-in layouts in the UI. [CHAR LIMIT=35] -->
+    <string name="keyboard_layouts_label">Layouts by ktosiek</string>
+
+    <!-- Keyboard layout label. [CHAR LIMIT=35] -->
+    <string name="keyboard_layout_pl_label">Polish</string>
+</resources>
