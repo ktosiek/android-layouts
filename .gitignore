@@ -1,4 +1,7 @@
-# files generated when building
-bin/
-gen/
-libs/
+# Ant build
+/bin/
+/gen/
+/libs/
+
+# nix-build
+/result

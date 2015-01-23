@@ -1,4 +1,6 @@
-{ androidenv }:
+{ pkgs ? (import <nixpkgs> {}),
+  androidenv ? pkgs.androidenv,
+  }:
 
 androidenv.buildApp {
   name = "android-layouts";
