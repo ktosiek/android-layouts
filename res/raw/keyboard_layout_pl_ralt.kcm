@@ -70,7 +70,7 @@ key X {
 
 key Z {
     label:     'Z'
-    base:      'a'
+    base:      'z'
     shift,capslock: 'Z'
     ralt:       '\u017c'
     shift+ralt,capslock+ralt: '\u017b'
