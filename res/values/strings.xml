@@ -9,4 +9,5 @@
     <!-- Keyboard layout label. [CHAR LIMIT=35] -->
     <string name="keyboard_layout_pl_label">Polish (any alt)</string>
     <string name="keyboard_layout_pl_ralt_label">Polish (ralt)</string>
+    <string name="keyboard_layout_pl_green_label">Polish (green USB)</string>
 </resources>

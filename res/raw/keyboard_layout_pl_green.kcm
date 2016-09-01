@@ -1,0 +1,92 @@
+#
+# Polish layout
+#
+
+type OVERLAY
+
+key A {
+    label:     'A'
+    base:      'a'
+    shift,capslock: 'A'
+    alt:       '\u0105'
+    shift+alt,capslock+alt: '\u0104'
+}
+
+key C {
+    label:     'C'
+    base:      'c'
+    shift,capslock: 'C'
+    alt:       '\u0107'
+    shift+alt,capslock+alt: '\u0106'
+}
+
+key E {
+    label:     'E'
+    base:      'e'
+    shift,capslock: 'E'
+    alt:       '\u0119'
+    shift+alt,capslock+alt: '\u0118'
+}
+
+key L {
+    label:     'L'
+    base:      'l'
+    shift,capslock: 'L'
+    alt:       '\u0142'
+    shift+alt,capslock+alt: '\u0141'
+}
+
+key N {
+    label:     'N'
+    base:      'n'
+    shift,capslock: 'N'
+    alt:       '\u0144'
+    shift+alt,capslock+alt: '\u0143'
+}
+
+key O {
+    label:     'O'
+    base:      'o'
+    shift,capslock: 'O'
+    alt:       '\u00f3'
+    shift+alt,capslock+alt: '\u00d3'
+}
+
+key S {
+    label:     'S'
+    base:      's'
+    shift,capslock: 'S'
+    alt:       '\u015b'
+    shift+alt,capslock+alt: '\u015a'
+}
+
+key X {
+    label:     'X'
+    base:      'x'
+    shift,capslock: 'X'
+    alt:       '\u017a'
+    shift+alt,capslock+alt: '\u0179'
+}
+
+key Z {
+    label:     'Z'
+    base:      'z'
+    shift,capslock: 'Z'
+    alt:       '\u017c'
+    shift+alt,capslock+alt: '\u017b'
+}
+
+key MINUS {
+    label: '-'
+    base: '-'
+    shift,capslock: '_'
+    alt: '\u2013'
+}
+
+# ctrl+shift+u -> ostatnie 4 znaki jako kod Unicode
+key U {
+    label: 'U'
+    base: 'u'
+    shift,capslock: 'U'
+    ctrl+shift: '\uef00'
+}

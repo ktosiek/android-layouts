@@ -6,4 +6,7 @@
     <keyboard-layout android:name="keyboard_layout_pl_ralt"
             android:label="@string/keyboard_layout_pl_ralt_label"
             android:keyboardLayout="@raw/keyboard_layout_pl_ralt" />
+    <keyboard-layout android:name="keyboard_layout_pl_green"
+            android:label="@string/keyboard_layout_pl_green_label"
+            android:keyboardLayout="@raw/keyboard_layout_pl_green" />
 </keyboard-layouts>
